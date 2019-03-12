@@ -1,0 +1,9 @@
+Facial recognition: https://www.youtube.com/watch?v=MRMbZJ1IP6c&list=PLS1lqxOwNjObCyToYg5cV-npsBiO_3OvC
+https://www.youtube.com/watch?v=9YOWgQ4kHGg
+https://www.quora.com/How-do-I-apply-principal-component-analysis-on-image-for-compression
+https://www.quora.com/What-is-an-intuitive-explanation-for-PCA
+
+https://www.oreilly.com/library/view/programming-computer-vision/9781449341916/ch01.html
+
+
+SVM:https://www.youtube.com/watch?v=LXGaYVXkGtg
